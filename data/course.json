@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Spanish"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "01334e55-99ed-89b9-72a2-40b8e473892f",
+  "instructors": {
+    "content": [
+      "5819c0ab-6c60-ca51-8c8f-48a05d092b66"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "89223c86-db5f-27c4-3567-cbd807849efc",
+    "website": "21g-716-introduction-to-contemporary-hispanic-literature-fall-2007"
+  },
+  "course_title": "Introduction to Contemporary Hispanic Literature",
+  "course_description": "This course studies representative twentieth and twenty-first-century texts and films from Hispanic America and Spain. Emphasis is on developing strategies for analyzing the genres of the novel, the short story, the poem, the fictional film, and the theatrical script. The novels read this semester are Magali Garc\u00eda Ramis's _Felices d\u00edas_, _T\u00edo Sergio_ (1986, Puerto Rico) and Javier Cercas's _Soldados de Salamina_ (2001, Spain). We will study Lorca's play \"La casa de Bernarda Alba\" (1936, Spain), films from Spain, M\u00e9xico, and Cuba, poems by Dar\u00edo (Nicaragua), Machado (Spain), Lorca (Spain), Hern\u00e1ndez (Spain), Vallejo (Per\u00fa), Cernuda (Spain), and Luis Pal\u00e9s Matos (Puerto Rico), and short stories from M\u00e9xico (by an exiled Spanish writer), Chile, Argentina, and Cuba. Thematic emphasis is on the Spanish Civil War, changing attitudes toward gender, the Spanish-speaking Caribbean, and the history of race in the Americas.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.716",
+  "course_image_thumbnail": {
+    "content": "d33231ab-86ac-6bfb-350f-de976a0f65b8",
+    "website": "21g-716-introduction-to-contemporary-hispanic-literature-fall-2007"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "42e926a3-3dde-4a97-a60b-d8f364a84274",
+  "site_short_id": "21g.716-fall-2007",
+  "site_url_path": "courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007",
+  "title": "Course Metadata"
+}
